@@ -6,4 +6,9 @@ Please take into account to change the variable `project_id` to your actual proj
 #### **Download data [here](https://drive.google.com/drive/folders/1zwBzLcByPDMNBINZMf2LPqv91XemoEtv?usp=drive_link/ "here")**
 
 ### xT_data_creation.
-This is a portion of code provided by the youtube channel **Friends of tracking** on their course: [mathematical modelling of football](https://www.youtube.com/playlist?list=PLedeYskZY0vBOdQ6Uc9eZjZ2-nz1JT3R7/ "here")
+This is a portion of code provided by the youtube channel **Friends of tracking** on their course: [mathematical modelling of football](https://www.youtube.com/playlist?list=PLedeYskZY0vBOdQ6Uc9eZjZ2-nz1JT3R7/ "here").
+In this file the data is downloaded with a different format so it can be converted to the spadl format, so it can be interpreted by the function that returns the model for the Threat map.
+
+### xThreat
+
+It contains the functions that return the Threat map and the match momentum for each match. And as well as the  xT_data_creation notebook, it takes a portion of code provided by the youtube channel **Friends of tracking** on their course: [mathematical modelling of football](https://www.youtube.com/playlist?list=PLedeYskZY0vBOdQ6Uc9eZjZ2-nz1JT3R7/ "here").
