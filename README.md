@@ -3,6 +3,7 @@
 This project was thought to be a tool for football coaches. 
 
 ### Passes 15 seconds before any goal or direct shot.
+blue arrows are passes, green arrows are dribbles and black arrows free kicks. Red points are the locations the shot take place from.
 ![My Image](passes_circuit.png)
 
 ### Pass_nodes between sustitutions.
